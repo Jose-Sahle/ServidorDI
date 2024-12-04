@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServidorDI", "..\04-Source\ServidorDI\ServidorDI.csproj", "{983114CB-5F5C-4A28-8C30-D9888B1FB249}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DirecTV.DI.Comunic", "..\04-Source\Classes\DirecTV.DI.Comunic\DirecTV.DI.Comunic.csproj", "{04B85DB0-40D8-41A3-800D-623ED2435CF8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{983114CB-5F5C-4A28-8C30-D9888B1FB249}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{983114CB-5F5C-4A28-8C30-D9888B1FB249}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{983114CB-5F5C-4A28-8C30-D9888B1FB249}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{983114CB-5F5C-4A28-8C30-D9888B1FB249}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04B85DB0-40D8-41A3-800D-623ED2435CF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04B85DB0-40D8-41A3-800D-623ED2435CF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04B85DB0-40D8-41A3-800D-623ED2435CF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04B85DB0-40D8-41A3-800D-623ED2435CF8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5A8D3EA-0A4A-4082-8533-033F7E132D51}
+	EndGlobalSection
+EndGlobal
